@@ -35,7 +35,14 @@ The output directory structure makes sure to output each tasks issue to its own 
 I had done all of the tasks properly, I used Co-pilot at some points to help with minor details. I tried to make sure I understood what each component did in the code and was a little confused initially but over time I began to understand (I have been very busy so this helped me quite a lot). The Tasks completed include: <br>
 **Task 1: User Favorite Genres**
 This task was used to find each user's favorite genre and output it to the CSV with no duplicates! <br>
+
+**Task 2 Average Listen Time:**
+This task was created to find the average listening time per user and was much easier than writing Task 1 in this hands on activity<br>
+
+**# Task 3: Identify users who listen between 12 AM and 5 AM**
+This task I used Co-pilot's help to understand how you can use withColumn and filter with distinct!
 ## Execution Instructions
+
 ## *Prerequisites*
 
 Before starting the assignment, ensure you have the following software installed and properly configured on your machine:
