@@ -1,0 +1,1 @@
+You cannot add a blank folder apparently unless through GIT 
