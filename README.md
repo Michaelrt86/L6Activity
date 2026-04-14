@@ -73,7 +73,7 @@ Before starting the assignment, ensure you have the following software installed
 
 1. *Generate the Input*:
   ```bash
-   python3 input_generator.py
+   python3 datagen.py
    ```
 
 2. **Execute Each Task Using spark-submit**:
@@ -84,7 +84,7 @@ Before starting the assignment, ensure you have the following software installed
 3. *Verify the Outputs*:
    Check the outputs/ directory for the resulting files:
    ```bash
-   ls outputs/
+   ls output/
    ```
 
 ## Errors and Resolutions

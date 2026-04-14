@@ -37,10 +37,10 @@ night_owls.show(10)
 
 
 #Output results
-favorite_genres.write.csv("outputs/user_song_counts", header=True, mode="overwrite")
-avg_listen_per_user.write.csv("outputs/avg_listen_per_user", header=True, mode="overwrite")
+favorite_genres.write.csv("output/user_song_counts", header=True, mode="overwrite")
+avg_listen_per_user.write.csv("output/avg_listen_per_user", header=True, mode="overwrite")
 
 #Task 4 Completed
-night_owls.write.csv("outputs/night_owls", header=True, mode="overwrite")
+night_owls.write.csv("output/night_owls", header=True, mode="overwrite")
 
 spark.stop()
